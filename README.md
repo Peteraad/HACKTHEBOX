@@ -12,7 +12,7 @@ Bước 1: Tải file về, dùng phần mềm IDA để decompile ta thấy đ�
 [gate.zip](https://github.com/Peteraad/HACKTHEBOX/files/7438110/gate.zip)
 
 #### ***Cách giải:***
-Bước 1: Tải file về, dùng phần mềm IDA để decompile. Ta thấy có gì bất thường trong doạn code 
+Bước 1: Tải file về, dùng phần mềm IDA để decompile. Ta thấy có gì bất thường trong đoạn code 
 >![image](https://user-images.githubusercontent.com/90112096/139355546-d4471be9-e763-4b29-ada5-b49c24a75e42.png)
 
 Bước 2: Ta thử kiểm tra dưới dạng Hex View và như dự đoán ta tìm được flag trong này
